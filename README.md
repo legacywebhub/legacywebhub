@@ -38,8 +38,8 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,react,bootstrap,javascript,html,css,vscode,mysql,git" />
-    <img src="https://skillicons.dev/icons?i=postman,github,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,react,bootstrap,javascript,html,css,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br>
   </a>
 </div>
 
